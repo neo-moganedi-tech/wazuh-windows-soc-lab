@@ -1,0 +1,22 @@
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Certificates and deployment configuration
+config/
+secrets/
+
+# Temporary and backup files
+*.bak
+*.log
+*.tmp
+
+# Operating system files
+Thumbs.db
+.DS_Store
